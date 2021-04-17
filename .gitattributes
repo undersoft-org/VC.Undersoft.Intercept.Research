@@ -1,2 +1,2 @@
 VC.Undersoft.Intercept.Packets/*.* linguist-detectable=true
-
+VC.Undersoft.Intercept.Packets/*.cs linguist-detectable=false
